@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><title>UTS PEMWEB2</title></head>
+<p align="center"><font size="5px"><b>Data Pemantauan Covid-19 Wilayah Jawa Barat
+</b></font></p>
+<p align="center"><font size="5px"><b>per 21 April 2022 21:55:16
+</b></font></p>
+<p align="center"><font size="3px">Lintang Alfi Syahrin / 171011400125
+</font></p>
+<table border="1" align="center">
+<tr><td span="">Positif</td>
+<td>Dirawat</td>
+<td>Sembuh</td>
+<td>Meninggal</td></tr>
+<tr><td>1.104.278</td>
+<td>14.963</td>
+<td>1.073.609</td>
+<td>15.706</td></tr>
+</table>
+</body>
+</html>
